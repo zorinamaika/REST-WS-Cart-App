@@ -3,4 +3,4 @@ REST WebService Cart application
 Create basket
 Add and remove from the basket
 List all items in the basket
-Get the total on all baskets of the customer
+Get the total on all baskets of certain customer
